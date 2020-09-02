@@ -4,10 +4,6 @@ function happyHolidays(string) {
   return "Happy holidays!"
   }
 
-function say(greeting, firstName) {
-  return `${greeting}, ${firstName}!`
-}
-
 function happyHolidaysTo(name){
     return `Happy holidays, ${firstName}!`
   }
