@@ -4,10 +4,6 @@ function happyHolidays(string) {
   return "Happy holidays!"
   }
   
-  
-function sayHelloTo(firstName) {
-  console.log(`Hello, ${firstName}!`)
-}
 
 function happyHolidaysTo(name){
   var name = "Maggie";
@@ -15,7 +11,7 @@ function happyHolidaysTo(name){
   }
   
 function happyCustomHolidayTo(string){
-  var name    = "Maggie";
+  
   var holiday = "Christmas";
     console.log(`Happy ${holiday}, ${name}`);
 }
