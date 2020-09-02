@@ -4,9 +4,12 @@ function happyHolidays(string) {
   return "Happy holidays!"
   }
 
+function say(greeting, firstName) {
+  return `${greeting}, ${firstName}!`
+}
+
 function happyHolidaysTo(name){
-  var name = "Maggie"
-    console.log(`'Happy holidays, ${name}'`);
+    return `Happy holidays, ${firstName}!`
   }
   
 function happyCustomHolidayTo(string){
