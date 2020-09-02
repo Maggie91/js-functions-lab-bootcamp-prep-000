@@ -5,7 +5,8 @@ function happyHolidays(string) {
   }
   
 
-function happyHolidaysTo(name){
+function happyHolidaysTo(string){
+  var name = "Maggie"
     console.log(`'Happy holidays, ${name}'`);
   }
   
