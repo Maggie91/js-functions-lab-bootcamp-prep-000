@@ -6,7 +6,7 @@ function happyHolidays(string) {
   
 
 function happyHolidaysTo(name){
-    console.log(`'Happy holidays to ${name}'`);
+    console.log(`'Happy holidays, ${name}'`);
   }
   
 function happyCustomHolidayTo(string){
