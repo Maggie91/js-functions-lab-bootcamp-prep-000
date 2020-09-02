@@ -9,7 +9,7 @@ function happyHolidaysTo(name){
   }
   
 function happyCustomHolidayTo(holiday, name){
-    console.log(`Happy ${holiday}, ${name}`);
+    return `Happy ${holiday}, ${name}`
 }
 
 function holidayCountdown(string){
