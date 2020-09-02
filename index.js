@@ -12,7 +12,7 @@ function happyCustomHolidayTo(holiday, name){
     return `Happy ${holiday}, ${name}!`
 }
 
-function holidayCountdown(string){
+function holidayCountdown(days, holiday){
   var holiday = "Cinco de Mayo";
   var days    = "34";
     console.log(`It's ${days} days until ${holiday}`);
