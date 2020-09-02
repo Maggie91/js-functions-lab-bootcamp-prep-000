@@ -18,5 +18,5 @@ function happyCustomHolidayTo(string){
 function holidayCountdown(string){
   var holiday = "Cinco de Mayo";
   var days    = "34";
-    console.log(`It's ${days} until ${holiday}`);
+    console.log(`It's ${days} days until ${holiday}`);
 }
