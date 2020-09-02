@@ -9,9 +9,9 @@ function sayHelloTo(firstName) {
   console.log(`Hello, ${firstName}!`)
 }
 
-function happyHolidaysTo(Maggie){
+function happyHolidaysTo(name){
   var name = "Maggie";
-    (console.log(`'Happy holidays to ${name}'`));
+    console.log(`'Happy holidays to ${name}'`);
   }
   
 function happyCustomHolidayTo(string){
