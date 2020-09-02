@@ -11,7 +11,7 @@ function happyHolidaysTo(string){
   }
   
 function happyCustomHolidayTo(string){
-  
+  var name = "Maggie"
   var holiday = "Christmas";
     console.log(`Happy ${holiday}, ${name}`);
 }
